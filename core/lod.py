@@ -462,8 +462,7 @@ def lodi1():
 		sleep(1)
 		Ux()
 		print("\007")
-		load()
-		os.system("python2 Tool-Kit.py")
+		
 		sys.exit()
 
 def lodi2():
