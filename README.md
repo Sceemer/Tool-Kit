@@ -12,7 +12,7 @@ Tool Kit is a hacker's Tool Kit made for Android terminal as like Termux and GNU
 
 # Warning
 
-## I am not expert so use this tool at your own risk.
+* `I am not expert so use this tool at your own risk.`
 
 <br/>
 
@@ -36,6 +36,6 @@ Open the termux app and type following commands.
 
 ## Now Tool-Kit is installed successfully. To run Tool-Kit Type Tool-Kit
 
-Now type Tool-Kit from anywhare in your terminl to open Tool-Kit.
+Now type `Tool-Kit` from anywhare in your terminal to open Tool-Kit.
 
 <br/>
