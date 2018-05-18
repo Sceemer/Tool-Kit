@@ -36,6 +36,6 @@ Open the termux app and type following commands.
 
 ## Now Tool-Kit is installed successfully. To run Tool-Kit Type Tool-Kit
 
-Now type `Tool-Kit` from anywhare in your terminal to open Tool-Kit.
+Now type `Tool-Kit` in your terminal to  Tool-Kit.
 
 <br/>
